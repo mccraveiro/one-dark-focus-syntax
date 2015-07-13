@@ -1,0 +1,15 @@
+{
+  "name": "one-dark-focus-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "One Dark with focus on your code",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/one-dark-focus-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
